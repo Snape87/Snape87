@@ -1,4 +1,4 @@
-## Ola! sou o Snape87 o melhor Nicholas, sou do Rio de janeiro, tenho 21 anos e esto atualmente 
+## Ola! sou o Snape87 ou melhor Nicholas, sou do Rio de janeiro, tenho 21 anos e estou atualmente 
 
 - 🔭 Trabalhando com Front-End
 - 🌱 Estudando JavaScript 
