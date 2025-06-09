@@ -1,23 +1,11 @@
-## Ola! sou o Snape87 ou melhor Nicholas, sou do Rio de janeiro, tenho 21 anos e
-estou atualmente 
+# Ola! sou o Snape87 ou melhor Nicholas, sou do Rio de janeiro, tenho 21 anos e atualmente sou
 
-**'Desenvolvedor Full Stack'**👨‍💻
+*Desenvolvedor Full Stack* 👨‍💻
 
-<p align="left">
-  <a href="https://github.com/Snape87=followers">
-    <img
-      alt="Seguidores"
-      title="Me siga no Github"
-      src="https://custom-icon-badges.demolab.com/github/followers/Snape87=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"
-  /></a>
-  <a href="https://github.com/Snape87=repositories&sort=stargazers">
-    <img
-      alt="total de estrelas"
-      title="Total de estrelas no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/Snape87=55960c&style=for-the-badge&labelColor=488207&logo=star"
-  /></a>
-</p>
---- ### Tecnologias e Ferramentas ⌨️
+---
+
+_Tecnologias e Ferramentas_ ⌨️
+<br> <br>
 <img
   align="center"
   alt="JavaScript"
@@ -74,6 +62,12 @@ estou atualmente
   width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
 />
+<img
+  align="center"
+  alt="Figma"
+  height="30"
+  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+          
 ---
 <div>
   <a href="https://instagram.com/_duartenic_" target="_blank"
@@ -88,7 +82,7 @@ estou atualmente
   /></a>
 </div>
 
---- ### 📊 Estatísticas
+ ### 📊 Estatísticas
 
 <p>
   <img
