@@ -1,4 +1,4 @@
-# Ola! sou o Snape87 ou melhor Nicholas, sou do Rio de janeiro, tenho 21 anos e atualmente sou
+# Ola! sou o Snape87 ou melhor Nicholas, sou do Rio de janeiro, tenho 22 anos e atualmente sou
 
 *Desenvolvedor Full Stack* 👨‍💻
 
